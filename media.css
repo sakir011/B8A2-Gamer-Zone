@@ -1,0 +1,28 @@
+@media screen and (max-width: 600px){
+    .main-nav{
+        flex-direction: column;
+
+        padding: 10px;
+        justify-content: center;
+
+    }
+    .banner{
+        flex-direction: column;
+        padding: 10px;
+    }
+    .funny{
+
+    flex-direction: column;
+}
+    .pic4{
+    flex-direction: column;
+
+}
+ .tex4{
+    flex-direction: column;
+ }
+ .b{
+    flex-direction: column;
+ }
+}
+

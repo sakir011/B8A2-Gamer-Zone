@@ -85,21 +85,22 @@ background-clip: text;
     font-size: 11px;
 }
 .funny{
+    display: flex;
     text-align: center;
     justify-content: center;
     margin-top: 20px;
 }
 .videos{
     background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-font-family: Work Sans;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: Work Sans;
 
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-}
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+ }
 .pic4{
     text-align: center;
     display: flex;
