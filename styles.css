@@ -85,7 +85,7 @@ background-clip: text;
     font-size: 11px;
 }
 .funny{
-    display: flex;
+    /* display: flex; */
     text-align: center;
     justify-content: center;
     margin-top: 20px;
@@ -144,6 +144,22 @@ background-clip: text;
     right: 60px;
     
 
+}
+.img5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+    
+}
+.img-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 90px;
+    margin-left: 55px;
+    margin-top: 20px;
+    padding: 20px;
 }
 
 

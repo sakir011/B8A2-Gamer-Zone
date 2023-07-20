@@ -13,16 +13,23 @@
     .funny{
 
     flex-direction: column;
-}
+} 
     .pic4{
     flex-direction: column;
+    height: 100%;
+    width: 100%;
+    
 
 }
  .tex4{
     flex-direction: column;
  }
- .b{
+ .b {
     flex-direction: column;
+ }
+ .horse{
+    flex-direction: column;
+    
  }
 }
 
