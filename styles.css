@@ -178,7 +178,31 @@ background-clip: text;
     gap: 30px;
     color: #FFFFFF;
 }
+.icon{
+   color: #FFFFFF;
+   margin-top: 20px;
+   margin-left: 550px;
 
+   
+}
+.icon i{
+    height: 50px;
+    width: 50px;
+    font-size: 30px;
+    
+}
+.end{
+    color: white ;
+    
+    
+    text-align: center;
+}
+.end-h6{
+    display: flex;
+    margin-left: 450px;
+    gap: 30px;
+}
+    
 
 
     
