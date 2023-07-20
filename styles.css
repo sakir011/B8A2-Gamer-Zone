@@ -44,6 +44,7 @@ body{
     padding: 10px 30px;
     border: none;
     border-radius: 8px;
+
     background: rgba(11, 2, 35, 0.10);
 }
 .banner{
@@ -181,7 +182,7 @@ background-clip: text;
 .icon{
    color: #FFFFFF;
    margin-top: 20px;
-   margin-left: 550px;
+   margin-left: 500px;
 
    
 }
@@ -199,7 +200,7 @@ background-clip: text;
 }
 .end-h6{
     display: flex;
-    margin-left: 450px;
+    margin-left: 400px;
     gap: 30px;
 }
     
