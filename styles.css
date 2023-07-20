@@ -161,7 +161,23 @@ background-clip: text;
     margin-top: 20px;
     padding: 20px;
 }
-
+/* footer */
+.footer{
+    background-color:#0B0223 ;
+    padding: 30px;
+}
+.amer{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.tex6{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    gap: 30px;
+    color: #FFFFFF;
+}
 
 
 
